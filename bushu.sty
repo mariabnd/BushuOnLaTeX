@@ -1,0 +1,23 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{bushu}[2016/4/10 v1.0 Shitijyou Akinori <shitijyou.a1072@gmail.com>]
+
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{mediabb}
+
+%% offset at left-bottom is (x=#3, y=#4), and fontsize of #2 is #5, float=#6
+\newcommand{\kasane}[6]{%
+\noindent\raisebox{-0.12zw}{\hbox to #3{\includegraphics[clip, width=1zw]{glyph/#1.pdf}}}%
+\raisebox{#4}{\makebox[1zw][#6]{\fontsize{#5}{0zw}{#2}}}%
+}
+
+\newcommand{\hen}[2]
+{\kasane{#1}{#2}{0.5zw}{0zw}{1zw}{l}}
+
+\newcommand{\kanmuri}[2]
+{\kasane{#1}{#2}{0zw}{0zw}{1zw}{c}}
+
+\newcommand{\nyousmall}[2]
+{\kasane{#1}{#2}{0.36zw}{0.12zw}{1.2zw}{l}}
+
+\newcommand{\nyoubig}[2]
+{\kasane{#1}{#2}{0.36zw}{0.12zw}{1.0zw}{l}}

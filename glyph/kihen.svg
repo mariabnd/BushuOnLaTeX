@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 125 125"
+   width="100pt"
+   height="100pt"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="kihen.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.337544"
+     inkscape:cx="38.762711"
+     inkscape:cy="54.543743"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="pt" />
+  <rect
+     style="opacity:0.001;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.41170192;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4133"
+     width="125"
+     height="125"
+     x="0"
+     y="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4141"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Takao明朝;-inkscape-font-specification:Takao明朝;letter-spacing:-0.02px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 30.212402,54.992683 C 24.678548,69.844571 17.293294,82.96713 8.0566406,94.360359 l -2.746582,-2.13623 C 16.581218,75.785327 24.495443,57.373055 29.052734,36.987312 l -19.8974606,0 -0.9765625,-3.112793 22.0336911,0 0,-27.2216793 c 8.300781,0 12.451172,0.9562174 12.451172,2.8686523 0,1.098633 -1.688639,2.339681 -5.065918,3.723145 l 0,20.629882 9.338379,0 5.615235,-8.483886 c 0.325521,0.406901 0.996907,1.118977 2.01416,2.13623 1.627604,1.749675 3.499349,4.109701 5.615234,7.080078 l -1.342773,2.380371 -21.240235,0 0,12.512207 c 13.346354,6.713867 20.019531,13.326009 20.019531,19.836426 0,3.173828 -1.464844,4.760742 -4.394531,4.760742 -1.627604,0 -3.011067,-1.464844 -4.15039,-4.394531 C 46.95638,63.842781 43.13151,58.390307 37.597656,53.344734 l 0,65.002446 -7.385254,0 z"
+     sodipodi:nodetypes="ccccccccscccccccccssccccc" />
+</svg>

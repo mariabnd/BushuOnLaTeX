@@ -1,0 +1,32 @@
+\documentclass[b5, 10pt]{jarticle}
+\usepackage{bushu}
+\usepackage{amssymb}
+
+\title{bushu.styの使用例}
+\author{七条彰紀}
+
+\begin{document}
+    \maketitle
+
+    \begin{itemize}
+        \item \hen{kihen}{$\mathfrak{a}$}
+        \item \hen{kihen}{$\mathfrak{a}$}
+
+        \item \nyousmall{ennyou}{$\mathfrak{a}$}
+        \item \nyousmall{ennyou}{x}
+
+        \item \nyoubig{ennyou}{$\mathfrak{a}$}
+        \item \nyoubig{ennyou}{x}
+        \item \nyoubig{ennyou}{ア}
+
+        \item \kanmuri{kusakanmuri}{a}
+        \item \kanmuri{kusakanmuri}{$\mathfrak{m}$}
+
+        \item \kanmuri{morikanmuri}{a}
+        \item \kanmuri{morikanmuri}{$\mathfrak{m}$}
+    \end{itemize}
+
+    \section{\protect\kanmuri{morikanmuri}{$\mathfrak{a}$}の定義}
+    %% sectionのタイトルに使う際は \protect を忘れずに。
+
+\end{document}
