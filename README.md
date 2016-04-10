@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BushuOnLaTeX
-LaTeX上で漢字の部首を他の字につけるためのstyファイル。例えば草冠が付いた\mathfrak{m}等が作れる。
-=======
 BushuOnLaTeX
 ==============
 LaTeX上で漢字の部首を他の字につけるためのstyファイル。例えば草冠が付いた\mathfrak{m}等が作れる。
@@ -37,4 +33,3 @@ TeXLiveで動作確認済み。
 また、同梱のglyph内のsvgファイルはGlyphWikiからダウンロードし、
 pdfファイルに変換しています。
 その他のファイルはMIT Licenseの元で配布しています。
->>>>>>> initial commit
